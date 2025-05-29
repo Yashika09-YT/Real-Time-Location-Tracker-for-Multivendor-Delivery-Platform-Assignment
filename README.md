@@ -41,8 +41,3 @@ Make sure you have:
 - npm run dev
 - open the link (http://localhost:3000)
 
-### Clone the Repo
-
-```bash
-git clone https://github.com/iamnikhilh/Real-Time-Location-Tracker-for-Multivendor-Delivery-Platform.git
-cd Real-Time-Location-Tracker-for-Multivendor-Delivery-Platform
