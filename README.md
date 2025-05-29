@@ -8,19 +8,17 @@ A scalable and intuitive web application to enable **real-time location tracking
 
 ## 📦 Features
 
-- 📍 Real-time location tracking of delivery agents
-- 🧑‍💼 Role-based dashboards for:
+-  Real-time location tracking of delivery agents
+-  Role-based dashboards for:
   - Vendor
   - Delivery Agent
   - Customer
-- 🔒 Secure login and registration
-- 🛒 Order management and status updates
-- 📡 WebSocket-powered live updates
-- ⚡ Responsive UI with Tailwind CSS
+- Secure login and registration
+-  Order management and status updates
+-  WebSocket-powered live updates
+-  Responsive UI with Tailwind CSS
 
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
@@ -29,7 +27,7 @@ A scalable and intuitive web application to enable **real-time location tracking
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
