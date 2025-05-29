@@ -6,7 +6,7 @@ A scalable and intuitive web application to enable **real-time location tracking
 
 ---
 
-## 📦 Features
+## Features
 
 -  Real-time location tracking of delivery agents
 -  Role-based dashboards for:
